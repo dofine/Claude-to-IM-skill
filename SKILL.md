@@ -16,6 +16,7 @@ allowed-tools:
   - AskUserQuestion
   - Grep
   - Glob
+targets: [claude]
 ---
 
 # Claude-to-IM Bridge Skill
